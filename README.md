@@ -1,4 +1,5 @@
 To install:
+
     1. Download AutoHotKey from https://www.autohotkey.com/
     2. Install it
     3. Press Win+R
